@@ -1,0 +1,12 @@
+.header {
+  padding: 100px 10px 100px 10px;
+  background-color: blue;
+  display: flex;
+}
+.header .h1 {
+  color: aquamarine;
+  margin-top: 100px;
+  margin-left: 20px;
+}
+
+/*# sourceMappingURL=slyle-preproc.css.map */
